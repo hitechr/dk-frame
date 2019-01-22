@@ -1,4 +1,4 @@
-bootdo:
+daikuan:
   uploadPath: /var/uploaded_files/
   username: test
   passward: 111111
