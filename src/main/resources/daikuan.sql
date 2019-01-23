@@ -7,7 +7,8 @@ Source Host           : localhost:3306
 Source Database       : daikuan
 
 */
-
+create database daikuan;
+use daikuan;
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
